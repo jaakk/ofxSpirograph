@@ -8,4 +8,9 @@ Spirograph is a geometric drawing toy that produces mathematical roulette curves
 
 http://en.wikipedia.org/wiki/Spirograph
 
+```
+Dependencies:
+- ofxGui
+```
+
 [1]: https://raw.githubusercontent.com/jaakk/ofxSpirograph/master/ofxSpirograph.jpg
